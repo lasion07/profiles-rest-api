@@ -1,6 +1,5 @@
-
-# Created by https://www.toptal.com/developers/gitignore/api/python
-# Edit at https://www.toptal.com/developers/gitignore?templates=python
+# Created by https://www.toptal.com/developers/gitignore/api/python,vargant
+# Edit at https://www.toptal.com/developers/gitignore?templates=python,vargant
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
@@ -142,4 +141,6 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# End of https://www.toptal.com/developers/gitignore/api/python
+#!! ERROR: vargant is undefined. Use list command to see defined gitignore types !!#
+
+# End of https://www.toptal.com/developers/gitignore/api/python,vargant
